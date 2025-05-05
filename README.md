@@ -37,13 +37,13 @@ print(‘Hola Mundo’)
 El markdown lo aprendi en [Tecnolochicas](https://tecnolochicas.mx/) -->
 
 
-
  # Hello, World! :wave:
- - 🔭 I’m currently studying Biomedical Psychology at Universidad Autónoma Metropolitana-Lerma
-- 🌱 I’m currently learning english A2, personal finance and html
+ - 🔭I’m Biomedical Psychologist
+- 🚀 I’m currently working in digital launch development.
+- 🌱 I’m currently learning Java programming taking **financial independence courses**  
 - 👯 I’m looking to collaborate on projects related to science and technology, specifically in the clinical area.
 - 🤔 I’m looking for help with programming and artificial intelligence in the clinical area
-- 💬 Ask me about mental health and programming bases
+- 💬 Ask me about **Mental Health, Depression, Educational delay and its impact on mental health**  
 - 📫 How to reach me: on all Social Media **Edith Cruz**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coffee and books
